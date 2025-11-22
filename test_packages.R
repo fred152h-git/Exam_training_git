@@ -1,2 +1,2 @@
-library(tidyverse) # de ser jo ikke ens ud
+library(tidyverse) # de ser jo ikke ens længere ud
 
