@@ -1,1 +1,2 @@
-library(tidyverse)
+library(tidyverse) # de ser jo ens ud
+
